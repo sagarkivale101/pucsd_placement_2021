@@ -3,5 +3,5 @@ Print the result for n as 13 = 233, 21 = 10946, 31=1346269, 47=2971215073, 61=25
 
 Given N calculate the Nth even fibonacci number
 
-result for n as 3 = 34, 10=832040, 22=27777890035288, 26 = 27777890035288
+result for n as 3 = 34, 10=832040, 22=27777890035288, 26 = =8944394323791464
 
